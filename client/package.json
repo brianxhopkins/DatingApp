@@ -19,6 +19,7 @@
     "@angular/platform-browser-dynamic": "~12.1.0",
     "@angular/router": "~12.1.0",
     "@kolkov/ngx-gallery": "^1.2.3",
+    "@microsoft/signalr": "^6.0.3",
     "@schematics/angular": "^12.1.2",
     "ajv": "^6.9.1",
     "bootstrap": "4.1.1",
